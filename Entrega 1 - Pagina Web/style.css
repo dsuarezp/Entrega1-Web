@@ -1,0 +1,70 @@
+body {
+    background-color: #f2f2f2;
+}
+
+header{
+    margin: 0px auto;
+    padding: 180px 30px 180px 30px;
+    background: #262626;
+    color: floralwhite;
+    text-align: center;
+    min-height: 500px;
+    align-content: center;
+}
+
+#Navbar {
+    background-color: #0d0d0d;
+}
+
+#Professional-Title {
+    color: #a6a6a6;
+}
+
+.Title {
+    background-color: #262626;
+    color: floralwhite;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+}
+
+.Content {
+    margin-top: 15px;
+    min-height: 200px;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.Icon {
+    width: 30px;
+    margin-right: 5px;
+}
+
+ul {
+    list-style: none;
+}
+
+.Link {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    text-align: justify;
+}
+
+.footer {
+    background-color: #262626;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+    color: floralwhite;
+  }
+
+.card-text {
+    min-height: 150px;
+}
