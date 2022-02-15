@@ -1,4 +1,4 @@
-# My Personal Web Page
+# My Personal Website
 ### David Santiago Suárez - 201923221
 #### *Link: https://dsuarezp.github.io/Entrega1-Web/*
 
